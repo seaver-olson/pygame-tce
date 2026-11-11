@@ -17,14 +17,11 @@ It uses the `Simple DirectMedia Layer library`_ and several other
 popular libraries to abstract the most common functions, making writing
 these programs a more intuitive task.
 
-This distribution is called **'pygame - Community Edition'** ('pygame-ce' for short).
+This distribution is called **'pygame - Threaded Community Edition'** ('pygame-tce' for short).
 
-It is a fork of the upstream pygame project by its former core developers,
-and was created after impossible challenges prevented them from continuing development upstream.
-The new distribution aims to offer more frequent releases, continuous bugfixes and enhancements,
-and a more democratic governance model.
+It is a fork of the upstream pygame-ce project designed to allow threading.  I am creating this for my students!  If you are not one of my students, please feel free to try the program out.
 
-New contributors are welcome!
+Program is still under development and not runnable
 
 
 Installation
